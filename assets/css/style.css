@@ -1,0 +1,34 @@
+.image{
+width:100%;
+height:200px;
+}
+.background{
+    background-image: url("../img/fondito.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    -webkit-background-size: auto 150%;
+  }
+.fondo{
+background-color: black;
+}
+.fuente{
+font-family:'Roboto', sans-serif;
+}
+.llorar{
+font-size:16px ;
+}
+.nav-item a{
+padding:0;
+}
+.flex{
+display: flex;
+justify-content: center;
+}
+.fuente2{
+  font-weight:500;
+}
+.fuente3{
+  font-weight: 300;
+}
